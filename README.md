@@ -25,3 +25,5 @@ you would be requiring the following
 * Duel
 * Noisy exploration
 * Distributional
+* Fixed Q Targets
+* Prioritized Experience Replay
