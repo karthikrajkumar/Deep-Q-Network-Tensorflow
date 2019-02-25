@@ -1,5 +1,5 @@
 # Deep-Q-Network-Tensorflow
-A plain vanilla Deep Q Network with multi-layer perceptron for any control tasks.
+A plain vanilla Deep Q Network with multi-layer perceptron for any control tasks. The model we are going to test is Cartpole-v0
 
 ## Installation details
 you would be requiring the following
